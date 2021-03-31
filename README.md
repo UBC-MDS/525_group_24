@@ -49,6 +49,6 @@ licence.
 
 | Contributor Name | GitHub Username                         |
 |------------------|-----------------------------------------|
-| Huanhuan Li      | [nashmakh](https://github.com/huan-ds)  |
+| Huanhuan Li      | [huan-ds](https://github.com/huan-ds)   |
 | Nash Makhija     | [nashmakh](https://github.com/nashmakh) |
 | Nicholas Wu      | [nichowu](https://github.com/nichowu)   |
