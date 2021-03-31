@@ -16,11 +16,13 @@ exposure to working with larger dataset and achieve various learning
 objectives in each of the following four milestones:
 
 Milestone 1: Get the data from web using API, process it, and convert it
-to an efficient file format. Milestone 2: Move the data to cloud, setup
-the infrastructure in the cloud and build a Machine Learning model.
+to an efficient file format.  
+Milestone 2: Move the data to cloud, setup the infrastructure in the
+cloud and build a Machine Learning model.  
 Milestone 3: Setup distributed infrastructure using Spark and run the
-Machine Learning model on Spark. Milestone 4: Deploy Machine Learning
-model in cloud so that other consumers can use it.
+Machine Learning model on Spark.  
+Milestone 4: Deploy Machine Learning model in cloud so that other
+consumers can use it.
 
 # Report
 
