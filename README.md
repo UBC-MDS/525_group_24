@@ -8,7 +8,7 @@ March 30, 2021
 
 In this project, we will build and deploy ensemble machine learning
 models in the cloud to predict daily rainfall in Australia on a large
-dataset (\~12 GB) (data source is
+dataset (\~6 GB) (data source is
 [here](https://figshare.com/articles/dataset/Daily_rainfall_over_NSW_Australia/14096681)),
 where features are outputs of different climate models and the target is
 the actual rainfall observation. The purpose of this project is to get
@@ -30,7 +30,7 @@ Milestone 1: A summary of observations and discussion on challenges
 encountered, is documented in this
 [notebook](notebooks/rainfall_eda.ipynb).
 
-# license
+# License
 
 The material on analysis about “Machine Learning Models in the Cloud to
 Predict Daily Rainfall in Australia” are licensed under the [MIT
