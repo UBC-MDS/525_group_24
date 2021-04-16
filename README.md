@@ -28,7 +28,11 @@ consumers can use it.
 
 Milestone 1: A summary of observations and discussion on challenges
 encountered, is documented in this
-[notebook](notebooks/rainfall_eda.ipynb).
+[notebook_1](notebooks/rainfall_eda.ipynb).
+
+Milestone 2: A summary of moving data to cloud and wrangling for 
+machine learning, is documented in this
+[notebook_2](notebooks/milestone_2.ipynb).
 
 # License
 
