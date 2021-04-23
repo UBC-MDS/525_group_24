@@ -34,6 +34,9 @@ Milestone 2: A summary of moving data to cloud and wrangling for
 machine learning, is documented in this
 [notebook_2](notebooks/milestone_2.ipynb).
 
+Milestone 3: A summary of Machine Learning model building results 
+is documented [here](notebooks/milestone3/).
+
 # License
 
 The material on analysis about “Machine Learning Models in the Cloud to
