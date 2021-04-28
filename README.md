@@ -37,6 +37,9 @@ machine learning, is documented in this
 Milestone 3: A summary of Machine Learning model building results 
 is documented [here](notebooks/milestone3/).
 
+Milestone 4: A summary of API deployment results 
+is documented [here](notebooks/milestone4/)
+
 # License
 
 The material on analysis about “Machine Learning Models in the Cloud to
