@@ -38,7 +38,7 @@ Milestone 3: A summary of Machine Learning model building results
 is documented [here](notebooks/milestone3/).
 
 Milestone 4: A summary of API deployment results 
-is documented [here](notebooks/milestone4/)
+is documented [here](notebooks/milestone4/).
 
 # License
 
